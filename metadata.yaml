@@ -1,0 +1,24 @@
+_repo: Amerikassa-Pila-yhdessa-naytoksessa_51507
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aira
+    gutenberg_agent_id: '46439'
+    url: http://www.gutenberg.org/2009/agents/46439
+description: ''
+gutenberg_issued: '2016-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51507'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 19th century'
+- !lcc 'PH'
+- !lcsh 'Railroad travel -- Drama'
+- !lcsh 'Finns -- United States -- Drama'
+- GITenberg
+title: 'Amerikassa: Pila yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/51507
